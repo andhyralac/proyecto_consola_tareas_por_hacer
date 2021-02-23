@@ -1,0 +1,16 @@
+{
+  "name": "proyecto_consola_tarea_por_hacer",
+  "version": "1.0.0",
+  "description": "Proyecto de consola",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andhy Ralac",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^7.3.3",
+    "uuid": "^8.3.2"
+  }
+}
