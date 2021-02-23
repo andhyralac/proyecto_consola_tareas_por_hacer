@@ -7,3 +7,5 @@
 #### 5.- Lista tareas pendientes
 #### 6.- Completas tareas
 #### 7.- Borra tareas
+
+##### archivo para inicializar app.js
